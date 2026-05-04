@@ -1,0 +1,29 @@
+# Binary files
+testflight-checker
+testflight-checker.exe
+
+# Dependency directories
+vendor/
+
+# Environment variables (SECURITY RISK)
+.env
+
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Logs
+*.log
+
+# Go workspace file
+go.work
+
+# Python files (Legacy)
+bot.py
+requirements.txt
+__pycache__/
+*.py[cod]
+*$py.class
